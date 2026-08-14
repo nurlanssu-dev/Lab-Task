@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nurlan\\source\\repos\\Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C86BFD17-7858-40A5-BE47-12B42A4B4277}|DocumentExport\\DocumentExport.csproj|c:\\users\\nurlan\\source\\repos\\lab\\documentexport\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86BFD17-7858-40A5-BE47-12B42A4B4277}|DocumentExport\\DocumentExport.csproj|solutionrelative:documentexport\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86BFD17-7858-40A5-BE47-12B42A4B4277}|DocumentExport\\DocumentExport.csproj|c:\\users\\nurlan\\source\\repos\\lab\\documentexport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86BFD17-7858-40A5-BE47-12B42A4B4277}|DocumentExport\\DocumentExport.csproj|solutionrelative:documentexport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8167B33E-D4A6-0432-CEC4-B3B1F80245EE}|Lab\\Lab.csproj|c:\\users\\nurlan\\source\\repos\\lab\\lab\\smartdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8167B33E-D4A6-0432-CEC4-B3B1F80245EE}|Lab\\Lab.csproj|solutionrelative:lab\\smartdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8167B33E-D4A6-0432-CEC4-B3B1F80245EE}|Lab\\Lab.csproj|c:\\users\\nurlan\\source\\repos\\lab\\lab\\smartairconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8167B33E-D4A6-0432-CEC4-B3B1F80245EE}|Lab\\Lab.csproj|solutionrelative:lab\\smartairconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmartDevice.cs",
+              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Lab\\Lab\\SmartDevice.cs",
+              "RelativeDocumentMoniker": "Lab\\SmartDevice.cs",
+              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Lab\\Lab\\SmartDevice.cs",
+              "RelativeToolTip": "Lab\\SmartDevice.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T21:09:11.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmartAirConditioner.cs",
+              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Lab\\Lab\\SmartAirConditioner.cs",
+              "RelativeDocumentMoniker": "Lab\\SmartAirConditioner.cs",
+              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Lab\\Lab\\SmartAirConditioner.cs",
+              "RelativeToolTip": "Lab\\SmartAirConditioner.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T21:09:00.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Lab\\DocumentExport\\Document.cs",
+              "RelativeDocumentMoniker": "DocumentExport\\Document.cs",
+              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Lab\\DocumentExport\\Document.cs",
+              "RelativeToolTip": "DocumentExport\\Document.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T20:59:56.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Lab\\DocumentExport\\Program.cs",
+              "RelativeDocumentMoniker": "DocumentExport\\Program.cs",
+              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Lab\\DocumentExport\\Program.cs",
+              "RelativeToolTip": "DocumentExport\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T20:59:44.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
