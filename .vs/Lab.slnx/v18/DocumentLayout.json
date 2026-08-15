@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Nurlan\\source\\repos\\Lab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C86BFD17-7858-40A5-BE47-12B42A4B4277}|DocumentExport\\DocumentExport.csproj|c:\\users\\nurlan\\source\\repos\\lab\\documentexport\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86BFD17-7858-40A5-BE47-12B42A4B4277}|DocumentExport\\DocumentExport.csproj|solutionrelative:documentexport\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C86BFD17-7858-40A5-BE47-12B42A4B4277}|DocumentExport\\DocumentExport.csproj|c:\\users\\nurlan\\source\\repos\\lab\\documentexport\\documentprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86BFD17-7858-40A5-BE47-12B42A4B4277}|DocumentExport\\DocumentExport.csproj|solutionrelative:documentexport\\documentprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C86BFD17-7858-40A5-BE47-12B42A4B4277}|DocumentExport\\DocumentExport.csproj|c:\\users\\nurlan\\source\\repos\\lab\\documentexport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86BFD17-7858-40A5-BE47-12B42A4B4277}|DocumentExport\\DocumentExport.csproj|solutionrelative:documentexport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C86BFD17-7858-40A5-BE47-12B42A4B4277}|DocumentExport\\DocumentExport.csproj|c:\\users\\nurlan\\source\\repos\\lab\\documentexport\\compressedtextdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86BFD17-7858-40A5-BE47-12B42A4B4277}|DocumentExport\\DocumentExport.csproj|solutionrelative:documentexport\\compressedtextdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86BFD17-7858-40A5-BE47-12B42A4B4277}|DocumentExport\\DocumentExport.csproj|c:\\users\\nurlan\\source\\repos\\lab\\documentexport\\htmldocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86BFD17-7858-40A5-BE47-12B42A4B4277}|DocumentExport\\DocumentExport.csproj|solutionrelative:documentexport\\htmldocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8167B33E-D4A6-0432-CEC4-B3B1F80245EE}|Lab\\Lab.csproj|c:\\users\\nurlan\\source\\repos\\lab\\lab\\smartairconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8167B33E-D4A6-0432-CEC4-B3B1F80245EE}|Lab\\Lab.csproj|solutionrelative:lab\\smartairconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8167B33E-D4A6-0432-CEC4-B3B1F80245EE}|Lab\\Lab.csproj|c:\\users\\nurlan\\source\\repos\\lab\\lab\\smartdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8167B33E-D4A6-0432-CEC4-B3B1F80245EE}|Lab\\Lab.csproj|solutionrelative:lab\\smartdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8167B33E-D4A6-0432-CEC4-B3B1F80245EE}|Lab\\Lab.csproj|c:\\users\\nurlan\\source\\repos\\lab\\lab\\smartairconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8167B33E-D4A6-0432-CEC4-B3B1F80245EE}|Lab\\Lab.csproj|solutionrelative:lab\\smartairconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C86BFD17-7858-40A5-BE47-12B42A4B4277}|DocumentExport\\DocumentExport.csproj|c:\\users\\nurlan\\source\\repos\\lab\\documentexport\\pdfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86BFD17-7858-40A5-BE47-12B42A4B4277}|DocumentExport\\DocumentExport.csproj|solutionrelative:documentexport\\pdfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86BFD17-7858-40A5-BE47-12B42A4B4277}|DocumentExport\\DocumentExport.csproj|c:\\users\\nurlan\\source\\repos\\lab\\documentexport\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86BFD17-7858-40A5-BE47-12B42A4B4277}|DocumentExport\\DocumentExport.csproj|solutionrelative:documentexport\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86BFD17-7858-40A5-BE47-12B42A4B4277}|DocumentExport\\DocumentExport.csproj|c:\\users\\nurlan\\source\\repos\\lab\\documentexport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86BFD17-7858-40A5-BE47-12B42A4B4277}|DocumentExport\\DocumentExport.csproj|solutionrelative:documentexport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +42,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocumentPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Lab\\DocumentExport\\DocumentPrinter.cs",
+              "RelativeDocumentMoniker": "DocumentExport\\DocumentPrinter.cs",
+              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Lab\\DocumentExport\\DocumentPrinter.cs",
+              "RelativeToolTip": "DocumentExport\\DocumentPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T21:53:53.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompressedTextDocument.cs",
+              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Lab\\DocumentExport\\CompressedTextDocument.cs",
+              "RelativeDocumentMoniker": "DocumentExport\\CompressedTextDocument.cs",
+              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Lab\\DocumentExport\\CompressedTextDocument.cs",
+              "RelativeToolTip": "DocumentExport\\CompressedTextDocument.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T21:40:25.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "HtmlDocument.cs",
+              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Lab\\DocumentExport\\HtmlDocument.cs",
+              "RelativeDocumentMoniker": "DocumentExport\\HtmlDocument.cs",
+              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Lab\\DocumentExport\\HtmlDocument.cs",
+              "RelativeToolTip": "DocumentExport\\HtmlDocument.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T21:27:18.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SmartDevice.cs",
               "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Lab\\Lab\\SmartDevice.cs",
               "RelativeDocumentMoniker": "Lab\\SmartDevice.cs",
@@ -38,7 +93,8 @@
               "RelativeToolTip": "Lab\\SmartDevice.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-14T21:09:11.497Z"
+              "WhenOpened": "2026-08-14T21:09:11.497Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -48,26 +104,40 @@
               "RelativeDocumentMoniker": "Lab\\SmartAirConditioner.cs",
               "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Lab\\Lab\\SmartAirConditioner.cs",
               "RelativeToolTip": "Lab\\SmartAirConditioner.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-14T21:09:00.055Z"
+              "WhenOpened": "2026-08-14T21:09:00.055Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "PdfDocument.cs",
+              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Lab\\DocumentExport\\PdfDocument.cs",
+              "RelativeDocumentMoniker": "DocumentExport\\PdfDocument.cs",
+              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Lab\\DocumentExport\\PdfDocument.cs",
+              "RelativeToolTip": "DocumentExport\\PdfDocument.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T21:10:01.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Document.cs",
               "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Lab\\DocumentExport\\Document.cs",
               "RelativeDocumentMoniker": "DocumentExport\\Document.cs",
               "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Lab\\DocumentExport\\Document.cs",
               "RelativeToolTip": "DocumentExport\\Document.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAFgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-14T20:59:56.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Lab\\DocumentExport\\Program.cs",
               "RelativeDocumentMoniker": "DocumentExport\\Program.cs",
