@@ -1,0 +1,15 @@
+C:\Users\Nurlan\source\repos\Lab\DocumentExport\bin\Debug\net10.0\DocumentExport.exe
+C:\Users\Nurlan\source\repos\Lab\DocumentExport\bin\Debug\net10.0\DocumentExport.deps.json
+C:\Users\Nurlan\source\repos\Lab\DocumentExport\bin\Debug\net10.0\DocumentExport.runtimeconfig.json
+C:\Users\Nurlan\source\repos\Lab\DocumentExport\bin\Debug\net10.0\DocumentExport.dll
+C:\Users\Nurlan\source\repos\Lab\DocumentExport\bin\Debug\net10.0\DocumentExport.pdb
+C:\Users\Nurlan\source\repos\Lab\DocumentExport\obj\Debug\net10.0\DocumentExport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nurlan\source\repos\Lab\DocumentExport\obj\Debug\net10.0\DocumentExport.AssemblyInfoInputs.cache
+C:\Users\Nurlan\source\repos\Lab\DocumentExport\obj\Debug\net10.0\DocumentExport.AssemblyInfo.cs
+C:\Users\Nurlan\source\repos\Lab\DocumentExport\obj\Debug\net10.0\DocumentExport.csproj.CoreCompileInputs.cache
+C:\Users\Nurlan\source\repos\Lab\DocumentExport\obj\Debug\net10.0\DocumentExport.sourcelink.json
+C:\Users\Nurlan\source\repos\Lab\DocumentExport\obj\Debug\net10.0\DocumentExport.dll
+C:\Users\Nurlan\source\repos\Lab\DocumentExport\obj\Debug\net10.0\refint\DocumentExport.dll
+C:\Users\Nurlan\source\repos\Lab\DocumentExport\obj\Debug\net10.0\DocumentExport.pdb
+C:\Users\Nurlan\source\repos\Lab\DocumentExport\obj\Debug\net10.0\DocumentExport.genruntimeconfig.cache
+C:\Users\Nurlan\source\repos\Lab\DocumentExport\obj\Debug\net10.0\ref\DocumentExport.dll

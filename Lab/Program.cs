@@ -16,6 +16,11 @@
             ac.CurrentMode = "fanonly";
             hub.RunAutomation(120);
             hub.DisplayAllReport();
+
+
+
+
+
         }
     }
 }
